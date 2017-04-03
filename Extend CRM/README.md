@@ -26,4 +26,13 @@ By clicking this tab a new window will open where you will have to enter the URL
 4. Create a new project for your Web Resources:
 ![alt tag](https://github.com/Parpulo/DynamicsCRMBook/blob/master/img/assets.PNG)
 
-You will be asked to check all the types of files that you want to include such ass, html, css, js ect.
+You will be asked to check all the types of files that you want to include such as, html, css, js ect.
+Every time you add a new web resource inside the solution you want to update the CRM so the file can be included there too, for this purpose you have to click the file that you mean to add:
+![alt tag](https://github.com/Parpulo/DynamicsCRMBook/blob/master/img/addFiles.PNG)
+
+After this you can check your solution inside CRM, under Web Resources click Add Existing and include the file that you just added.
+Be aware to keep well organized folders of the Asses Project and create as much global resources as you can, so to reuse them and create standards.
+
+With Plugins is slightly different, you first have to **Register** a plugin, go back to CRM Solution to include this as Existing Plugin.
+Every time you update plugins you have to Build and Publish so that changes can affect your CRM.
+![alt tag](https://github.com/Parpulo/DynamicsCRMBook/blob/master/img/publish.PNG)

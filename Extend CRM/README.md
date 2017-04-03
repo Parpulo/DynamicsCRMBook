@@ -12,7 +12,7 @@ Here is a Step by Step guide that beginners might find helpful:
 
 1. You want to start by downloading and installing XRM Toolkit:
 To make sure that installing was done properly open your Visual Studio and you should be able to find this tab added:
-![alt tag](/DynamicsCRMBook/img/xrmtoolkit.PNG")
+![alt tag](https://github.com/Parpulo/DynamicsCRMBook/blob/master/img/newProject.PNG)
 
 2. Create a new Class Library Project:
-![alt tag](/DynamicsCRMBook/img/newProject.PNG")
+![alt tag](https://github.com/Parpulo/DynamicsCRMBook/blob/master/img/newProject.PNG)
